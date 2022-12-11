@@ -432,6 +432,7 @@ b, strong {
 .contact-form .form-control:hover, .contact-form .form-control:focus {
   border-color: #51ab6d;
 }
+
 .contact-form .submit-btn {
   background: #51ab6d;
   border-radius: 50px;
@@ -440,6 +441,7 @@ b, strong {
   border: 0;
   cursor: pointer;
   transition: all 0.4s ease;
+  text-align: center;
 }
 .contact-form .submit-btn:hover {
   background: #474559;
@@ -464,6 +466,8 @@ b, strong {
 .social-links .uil:hover {
   color: #51ab6d;
 }
+
+
 
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
